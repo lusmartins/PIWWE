@@ -7465,7 +7465,7 @@ blockquote {
 
   .banner-bg-element {
     height: 160px;
-    background-image: linear-gradient(177.5deg, rgba(0, 0, 0, 0) 55.5%, #fff 56%);
+    background-image: linear-gradient(177.5deg, rgba(0, 0, 0, 0) 55.5%, #000000 56%);
   }
 
   .home-banner-bg-element-title {
